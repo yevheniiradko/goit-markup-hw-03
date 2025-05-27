@@ -275,7 +275,7 @@ padding: 188px 0;
     column-gap: 24px;
 }
 .portfolio-list-item {
-    width: calc((100% - 120px) /);
+    width: calc((100% - 48px) / 3);
 }
 
 .portfolio-item-container {
